@@ -1,3 +1,7 @@
+"""
+Removes all words from input that are not uniquely common in that input
+"""
+
 import math
 import spacy
 
